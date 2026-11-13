@@ -1,0 +1,19 @@
+
+# Executable
+lexer
+
+# Object files
+*.o
+
+# Debug files
+*.out
+
+# Temporary files
+*.tmp
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Backup files
+*~
